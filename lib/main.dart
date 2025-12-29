@@ -34,7 +34,7 @@ class _HomeScreenState extends State<HomeScreen> {
   int _skillLevel = 5; // Easy: 5, Medium: 10, Hard: 20
 
   // Group 1 State: Holds the selected game mode.
-  String? _selectedMode = 'Single Player';
+  String? _selectedMode = 'Player VS Bot';
 
   // --- REMOVED: No longer need _selectedDifficulty ---
 
